@@ -42,7 +42,11 @@ Websites structure
 
 
 
+Part 2 : Functionality.
+After moving the website to the Play Framework we updated some of the pages. The store page will display a table of UFC products such as gloves and clothing which can be altered by clicking on an edit button. New products can be added into the database and products can be deleted and updated. The table displays the name of the product,id number,price and the type.The membership page allows the user to log in using a username,email and a password. After logging in the user can edit the products on the store page. The user can  also log out on the membership page after he is finished. When the user tries to add a new product he clicks on the ‘add new’ button on the membership page and is brought to another page where he has to insert the details of the product .After he is done he is brought back to the store page and the product he has created  will be there. To delete a product the user clicks on a button next to the product. Any product can be updated and any value can be changed. 
 
+Evaluation
+Moving the website to the Play Framework caused a few problems. At first there was problems with the links and the backgrounds but after a while we got it fixed.The website had a lot of symbols in it and after moving it they disappeared.There was also a problem with a couple of images disappearing in the gallery and on the divisions page. Another problem we encountered was that the image carousel stopped working properly on the gallery page. 
 
 
 
